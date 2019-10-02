@@ -75,10 +75,10 @@
 		<profile>
 			<id>MySonarCloud</id>
 			<properties>
-				<sonar.projectKey>Kingthebestin_batch-processing</sonar.projectKey>
+				<sonar.projectKey>Kingthebestin_Customer-Statement-processing</sonar.projectKey>
 				<sonar.organization>kingthebestin</sonar.organization>
 				<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-				<sonar.login>7e5a31f2345d2e156c8caab23e6c3ac8e19bcd95</sonar.login>
+				<sonar.login>9f0b311e103c977d433a076d1425f9aa2c0ebb9f</sonar.login>
 			</properties>
 			<build>
 				<plugins>
