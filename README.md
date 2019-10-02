@@ -1,4 +1,4 @@
-# Rabobank Customer Statement Processor
+# Customer Statement Processing Application
 
 This java app is capable of process CSV file in batch processing, validate fields based on business criteria and able to create reconciliation reports for failed rows. 
 
